@@ -7,5 +7,5 @@
 - Objetos internos do Git
 - Chave SSH e Token
 - Iniciando o Git e criando um commit
-- Alterando dados do do Git (Name, e-mail, etc..)
+- Alterando dados do Git (Name, e-mail, etc..)
 - Linkando meu arquivo do Git com o GitHub
